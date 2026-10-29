@@ -1,0 +1,6 @@
+.venv/
+mlruns/
+__pycache__/
+outputs/
+*.pyc
+echo "mlflow.db" >> .gitignore
